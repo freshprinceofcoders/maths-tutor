@@ -1,2 +1,6 @@
 # maths-tutor
-helps you with division 
+## The goal:
+__Helps you with multiplication__
+
+![Multiply](./multiplication.png)
+
